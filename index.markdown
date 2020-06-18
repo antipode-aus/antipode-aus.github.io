@@ -23,7 +23,7 @@ The researchers in leadership roles include:
 The rest of the field is below, with more senior people first but otherwise in no particular order. To make this even clearer: in a young field like deep learning, some of the best people are also some of the youngest, so the ordering of the following list is definitely not intended as a ranking of research strength:
 
 - [James Bailey](https://people.eng.unimelb.edu.au/baileyj/papers/papers.html), CS Professor University of Melbourne, ICCV, ICML, IJCAI, CVPR, AAAI.
-- [Qinfeng Shi](https://cs.adelaide.edu.au/~javen/), Associate Professor University of Adelaide, ICCV, IJCAI, CVPR, ECCV, AAAI.
+- [Qinfeng Shi](https://cs.adelaide.edu.au/~javen/), Professor University of Adelaide, ICCV, IJCAI, CVPR, ECCV, AAAI.
 - [Trevor Cohn](https://people.eng.unimelb.edu.au/tcohn/), Associate Professor University of Melbourne: deep learning for NLP, ICML, ACL, EMNLP.
 - [Lexing Xie](http://users.cecs.anu.edu.au/~xlx/), Professor ANU, graph data and computer vision, CVPR, AAAI, WACV.
 - [Dinh Phung](https://research.monash.edu/en/persons/dinh-phung), Professor Monash University, AAAI, PMLR, ICLR.
@@ -37,7 +37,9 @@ The rest of the field is below, with more senior people first but otherwise in n
 - [Yunchao Wei](https://weiyc.github.io/), Lecturer University of Technology Sydney, computer vision, AAAI, ECCV, CVPR, NeurIPS.
 - [Liang Zheng](https://cecs.anu.edu.au/people/liang-zheng), Lecturer ANU computer vision, ECCV, CVPR, ICCV.
 - [Linchao Zhu](http://ffmpbgrnn.github.io/), Lecturer University of Technology Sydney, NeurIPS, ICCV, CVPR, AAAI, IJCAI.
-- [Xiaojun Chang](https://research.monash.edu/en/persons/xiaojun-chang), Monash, AAAI, IJCAI, Neural Computation.
+- [Xiaojun Chang](https://research.monash.edu/en/persons/xiaojun-chang), Monash, CVPR, AAAI, IJCAI, Neural Computation.
+- [Shirui Pan](https://shiruipan.github.io/), Monash, KDD, AAAI, IJCAI, ICDM.
+
 
 The best venues for publication in deep learning are *conferences*. See below for a list.
 
