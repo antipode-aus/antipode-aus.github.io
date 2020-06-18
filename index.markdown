@@ -29,16 +29,16 @@ The rest of the field is below, with more senior people first but otherwise in n
 - [Dinh Phung](https://research.monash.edu/en/persons/dinh-phung), Professor Monash University, AAAI, PMLR, ICLR.
 - [Karin Verspoor](https://cis.unimelb.edu.au/people/karin-verspoor), Professor University of Melbourne, deep learning for NLP, particularly for biomedical text, BMC Bioinformatics, ACL.
 - [Reza Haffari](https://research.monash.edu/en/persons/reza-haffari), Associate Professor Monash, natural language processing, many papers in ACL.
-- [Mingming Gong](https://mingming-gong.github.io/), Lecturer University of Melbourne, NeurIPS, ICML, CVPR, ICCV.
-- [Tongliang Liu](https://sydney.edu.au/engineering/about/our-people/academic-staff/tongliang-liu.html), Lecturer University of Sydney, CVPR, ECCV, AAAI, ICML, IJCAI.
+- [Mingming Gong](https://mingming-gong.github.io/), Lecturer University of Melbourne, NeurIPS, ICML, CVPR, ICCV, AAAI, IJCAI.
+- [Tongliang Liu](https://sydney.edu.au/engineering/about/our-people/academic-staff/tongliang-liu.html), Lecturer University of Sydney, ICML, NeurIPS, CVPR, ECCV, AAAI, IJCAI.
 - [Qi Wu](https://researchers.adelaide.edu.au/profile/qi.wu01#publications), Senior Lecturer University of Adelaide, visual question answering, CVPR, AAAI, IJCAI
-- [Chang Xu](https://sydney.edu.au/engineering/about/our-people/academic-staff/c-xu.html), Lecturer University of Sydney, computer vision, ICASSP, AAAI, ECCV.
+- [Chang Xu](https://sydney.edu.au/engineering/about/our-people/academic-staff/c-xu.html), Lecturer University of Sydney, computer vision, ICML, NeurIPS, CVPR, ECCV, KDD, IJCAI, AAAI.
 - [Richard Nock](http://users.cecs.anu.edu.au/~rnock/), Adjunct Professor ANU/Sydney, NeurIPS, ICCV, ICML, CVPR, AAAI.
 - [Yunchao Wei](https://weiyc.github.io/), Lecturer University of Technology Sydney, computer vision, AAAI, ECCV, CVPR, NeurIPS.
 - [Liang Zheng](https://cecs.anu.edu.au/people/liang-zheng), Lecturer ANU computer vision, ECCV, CVPR, ICCV.
 - [Linchao Zhu](http://ffmpbgrnn.github.io/), Lecturer University of Technology Sydney, NeurIPS, ICCV, CVPR, AAAI, IJCAI.
-- [Xiaojun Chang](https://research.monash.edu/en/persons/xiaojun-chang), Monash, CVPR, AAAI, IJCAI, Neural Computation.
-- [Shirui Pan](https://shiruipan.github.io/), Monash, KDD, AAAI, IJCAI, ICDM.
+- [Xiaojun Chang](https://research.monash.edu/en/persons/xiaojun-chang), Lecturer Monash University, CVPR, AAAI, IJCAI, Neural Computation.
+- [Shirui Pan](https://shiruipan.github.io/), Lecturer Monash University, KDD, AAAI, IJCAI, ICDM.
 
 
 The best venues for publication in deep learning are *conferences*. See below for a list.
