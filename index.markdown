@@ -57,7 +57,7 @@ A brief summary of the top conferences in each area:
   * **Vision**: CVPR, ICCV, ECCV; AAAI, IJCAI
   * **NLP**: ACL, EMNLP, NACCL; AAAI, IJCAI
   * **AI**: AAAI, IJCAI
-  * **Data science**: KDD; ICDM, SDM, AAAI, IJCAI
+  * **Data science**: KDD; ICDM, SDM
   
 ## Institutes and labs
 
