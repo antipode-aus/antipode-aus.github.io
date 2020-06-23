@@ -79,6 +79,7 @@ Institutes focused on policy and ethics (and on AI broadly, not deep learning):
 - [Humanising Machine Intelligence](https://hmi.anu.edu.au/) (HMI)
 - [3AI](https://3ainstitute.cecs.anu.edu.au). Focused on policy implications of AI.
 - [Gradient Institute](https://gradientinstitute.org/). Focused on ethical AI.
+- [Centre for Artificial Intelligence and Digital Ethics](https://law.unimelb.edu.au/centres/caide)
 
 ## Grants
 
