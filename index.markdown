@@ -69,6 +69,7 @@ The technology-oriented institutes, large centres and labs:
 - [ReLER lab](http://reler.net/), University of Technology Sydney, directed by Yi Yang.
 - [ANU computational media lab](http://cm.cecs.anu.edu.au/), senior person appears to be Lexing Xie.
 - [UBTech Sydney AI centre](https://www.sydney.edu.au/engineering/our-research/data-science-and-computer-engineering/ubtech-sydney-artificial-intelligence-centre.html), directed by Dacheng Tao.
+- [Queensland AI Hub](https://www.qldaihub.com/)
 
 Smaller research groups:
 
