@@ -53,11 +53,11 @@ AAAI and IJCAI and the top two conferences in the general artificial intelligenc
 
 A brief summary of the top conferences in each area:
 
-  * **ML**: NeurIPS, ICML, ICLR, UAI, AISTATS
-  * **Vision**: CVPR, ICCV, ECCV; AAAI, IJCAI
-  * **NLP**: ACL, EMNLP, NACCL; AAAI, IJCAI
-  * **AI**: AAAI, IJCAI
-  * **Data science**: KDD; ICDM, SDM
+  * **Machine Learning**: NeurIPS, ICML, ICLR, UAI, AISTATS
+  * **Computer Vision**: CVPR, ICCV, ECCV; AAAI, IJCAI
+  * **Natural Language Processing**: ACL, EMNLP, NACCL; AAAI, IJCAI
+  * **Artificial Intelligence**: AAAI, IJCAI
+  * **Data Mining**: KDD; ICDM, SDM, WSDM
   
 ## Institutes and labs
 
