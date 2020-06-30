@@ -85,7 +85,8 @@ Institutes focused on policy and ethics (and on AI broadly, not deep learning):
 
 Training in deep learning:
 
-- [Brane shop](https://braneshop.com.au/)
+- [Brane shop](https://braneshop.com.au/) specialists in strategic & technical AI education.
+- [Silverpond](https://silverpond.com.au/) supports the deep learning community, [HighLighter](https://silverpond.com.au/highlighter/).
 
 ## Grants
 
