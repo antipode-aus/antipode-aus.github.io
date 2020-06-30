@@ -57,7 +57,7 @@ A brief summary of the top conferences in each area:
   * **Computer Vision**: CVPR, ICCV, ECCV
   * **Natural Language Processing**: ACL, EMNLP, NACCL
   * **Artificial Intelligence**: AAAI, IJCAI
-  * **Data Mining**: KDD; ICDM, SDM, WSDM
+  * **Data Mining**: KDD, ICDM, SDM, WSDM
   
 ## Institutes and labs
 
