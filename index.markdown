@@ -81,6 +81,12 @@ Institutes focused on policy and ethics (and on AI broadly, not deep learning):
 - [Gradient Institute](https://gradientinstitute.org/). Focused on ethical AI.
 - [Centre for Artificial Intelligence and Digital Ethics](https://law.unimelb.edu.au/centres/caide)
 
+## Startups
+
+Training in deep learning:
+
+- [Brane shop](https://braneshop.com.au/)
+
 ## Grants
 
 The following are all grants containing the terms "deep learning" found using [ARC grant search](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grants). If you notice that we've missed one, please [get in touch](mailto:d.murfet@unimelb.edu.au). **DP** means [Discovery Project](https://www.arc.gov.au/grants/discovery-program/discovery-projects), **LP** means [Linkage Project](https://www.arc.gov.au/grants/linkage-program/linkage-projects), **DE** are [DECRAS](https://www.arc.gov.au/grants/discovery-program/discovery-early-career-researcher-award-decra), **FT** are [Future Fellowships](https://www.arc.gov.au/grants/discovery-program/future-fellowships) and **FL** are [Laureate Fellowships](https://www.arc.gov.au/grants/discovery-program/australian-laureate-fellowships). Listed are CIs only. Grants are listed in reverse chronological order (newest first).
