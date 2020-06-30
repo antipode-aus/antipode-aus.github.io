@@ -54,8 +54,8 @@ AAAI and IJCAI and the top two conferences in the general artificial intelligenc
 A brief summary of the top conferences in each area:
 
   * **Machine Learning**: NeurIPS, ICML, ICLR, UAI, AISTATS
-  * **Computer Vision**: CVPR, ICCV, ECCV; AAAI, IJCAI
-  * **Natural Language Processing**: ACL, EMNLP, NACCL; AAAI, IJCAI
+  * **Computer Vision**: CVPR, ICCV, ECCV
+  * **Natural Language Processing**: ACL, EMNLP, NACCL
   * **Artificial Intelligence**: AAAI, IJCAI
   * **Data Mining**: KDD; ICDM, SDM, WSDM
   
