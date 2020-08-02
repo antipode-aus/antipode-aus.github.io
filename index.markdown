@@ -92,6 +92,10 @@ Consulting and products:
 
 - [Silverpond](https://silverpond.com.au/) supports the deep learning community, [HighLighter](https://silverpond.com.au/highlighter/).
 
+## Reports
+
+- [Wake Up Australia](https://medium.com/@michael.benjamin.evans/wake-up-australia-957a23d8dfe2) by Michael Evans
+
 ## Grants
 
 The following are all grants containing the terms "deep learning" found using [ARC grant search](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grants). If you notice that we've missed one, please [get in touch](mailto:d.murfet@unimelb.edu.au). **DP** means [Discovery Project](https://www.arc.gov.au/grants/discovery-program/discovery-projects), **LP** means [Linkage Project](https://www.arc.gov.au/grants/linkage-program/linkage-projects), **DE** are [DECRAS](https://www.arc.gov.au/grants/discovery-program/discovery-early-career-researcher-award-decra), **FT** are [Future Fellowships](https://www.arc.gov.au/grants/discovery-program/future-fellowships) and **FL** are [Laureate Fellowships](https://www.arc.gov.au/grants/discovery-program/australian-laureate-fellowships). Listed are CIs only. Grants are listed in reverse chronological order (newest first).
