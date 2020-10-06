@@ -65,7 +65,7 @@ The technology-oriented institutes, large centres and labs:
 - [ANU computational media lab](http://cm.cecs.anu.edu.au/), senior person appears to be Lexing Xie.
 - [UBTech Sydney AI centre](https://www.sydney.edu.au/engineering/our-research/data-science-and-computer-engineering/ubtech-sydney-artificial-intelligence-centre.html), directed by Dacheng Tao.
 - [Queensland AI Hub](https://www.qldaihub.com/)
-- [Applied AI Institute](https://a2i2.deakin.edu.au/themes/deep-learning/)
+- [Applied AI Institute](https://a2i2.deakin.edu.au/themes/deep-learning/) at Deakin University.
 
 Smaller research groups:
 
