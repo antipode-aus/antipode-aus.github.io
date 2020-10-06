@@ -11,35 +11,30 @@ This document attempts to be an up-to-date overview of the deep learning landsca
 
 Below is a (no doubt incomplete) list of researchers in Australia for whom deep learning is **currently their main research area**. This includes e.g. researchers in computer vision whose main tool is deep learning. To make this point even clearer: the list does not include every single person who has published a paper using deep learning. That list would be much larger. Included is a caricature of the interests of each researcher, in the form of a sampling of the conferences/journals that they have published in.
 
-The researchers in leadership roles include:
-
 - [Tim Baldwin](https://people.eng.unimelb.edu.au/tbaldwin/publications.html), Professor University of Melbourne: deep learning for NLP, ACL.
 - [Dacheng Tao](https://sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html), Professor University of Sydney, computer vision, AAAI, CVPR, ECCV.
 - [Ian Reid](https://cs.adelaide.edu.au/~ianr/), Professor University of Adelaide, computer vision and robotics, ICRA, WACV, ICCV.
 - [Chunhua Shen](https://researchers.adelaide.edu.au/profile/chunhua.shen), Professor University of Adelaide, computer vision, AAAI, ICML, CVPR.
 - [Stephen Gould](http://users.cecs.anu.edu.au/~sgould/), Associate Professor ANU, computer vision, WACV, ICCV, CVPR, NeurIPS.
 - [Yi Yang](http://reler.net/), Professor University of Technology Sydney, IJCAI, CVPR, AAAI, ICLR, ECCV.
-
-The rest of the field is below, with more senior people first but otherwise in no particular order. To make this even clearer: in a young field like deep learning, some of the best people are also some of the youngest, so the ordering of the following list is definitely not intended as a ranking of research strength:
-
 - [James Bailey](https://people.eng.unimelb.edu.au/baileyj/papers/papers.html), CS Professor University of Melbourne, ICCV, ICML, IJCAI, CVPR, AAAI.
 - [Qinfeng Shi](https://cs.adelaide.edu.au/~javen/), Professor University of Adelaide, ICCV, IJCAI, CVPR, ECCV, AAAI.
-- [Trevor Cohn](https://people.eng.unimelb.edu.au/tcohn/), Associate Professor University of Melbourne: deep learning for NLP, ICML, ACL, EMNLP.
 - [Lexing Xie](http://users.cecs.anu.edu.au/~xlx/), Professor ANU, graph data and computer vision, CVPR, AAAI, WACV.
 - [Dinh Phung](https://research.monash.edu/en/persons/dinh-phung), Professor Monash University, AAAI, PMLR, ICLR.
 - [Karin Verspoor](https://cis.unimelb.edu.au/people/karin-verspoor), Professor University of Melbourne, deep learning for NLP, particularly for biomedical text, BMC Bioinformatics, ACL.
+- [Truyen Tran](https://truyentran.github.io/), Associate Professor Deakin University, AAAI, KDD, ICLR, NIPS, CVPR, ICML.
+- [Trevor Cohn](https://people.eng.unimelb.edu.au/tcohn/), Associate Professor University of Melbourne: deep learning for NLP, ICML, ACL, EMNLP.
 - [Reza Haffari](https://research.monash.edu/en/persons/reza-haffari), Associate Professor Monash, natural language processing, many papers in ACL.
+- [Qi Wu](https://researchers.adelaide.edu.au/profile/qi.wu01#publications), Senior Lecturer University of Adelaide, visual question answering, CVPR, AAAI, IJCAI
 - [Mingming Gong](https://mingming-gong.github.io/), Lecturer University of Melbourne, NeurIPS, ICML, CVPR, ICCV, AAAI, IJCAI.
 - [Tongliang Liu](https://sydney.edu.au/engineering/about/our-people/academic-staff/tongliang-liu.html), Lecturer University of Sydney, ICML, NeurIPS, CVPR, ECCV, AAAI, IJCAI.
-- [Qi Wu](https://researchers.adelaide.edu.au/profile/qi.wu01#publications), Senior Lecturer University of Adelaide, visual question answering, CVPR, AAAI, IJCAI
 - [Chang Xu](https://sydney.edu.au/engineering/about/our-people/academic-staff/c-xu.html), Lecturer University of Sydney, computer vision, ICML, NeurIPS, CVPR, ECCV, KDD, IJCAI, AAAI.
 - [Richard Nock](http://users.cecs.anu.edu.au/~rnock/), Adjunct Professor ANU/Sydney, NeurIPS, ICCV, ICML, CVPR, AAAI.
 - [Yunchao Wei](https://weiyc.github.io/), Lecturer University of Technology Sydney, computer vision, AAAI, ECCV, CVPR, NeurIPS.
 - [Liang Zheng](https://cecs.anu.edu.au/people/liang-zheng), Lecturer ANU computer vision, ECCV, CVPR, ICCV.
 - [Linchao Zhu](http://ffmpbgrnn.github.io/), Lecturer University of Technology Sydney, NeurIPS, ICCV, CVPR, AAAI, IJCAI.
 - [Xiaojun Chang](https://research.monash.edu/en/persons/xiaojun-chang), Lecturer Monash University, CVPR, AAAI, IJCAI, Neural Computation.
-- [Shirui Pan](https://shiruipan.github.io/), Lecturer Monash University, KDD, AAAI, IJCAI, ICDM.
-
+- [Shirui Pan](https://shiruipan.github.io/), Lecturer Monash University, KDD, AAAI, IJCAI, ICDM. 
 
 The best venues for publication in deep learning are *conferences*. See below for a list.
 
@@ -70,6 +65,7 @@ The technology-oriented institutes, large centres and labs:
 - [ANU computational media lab](http://cm.cecs.anu.edu.au/), senior person appears to be Lexing Xie.
 - [UBTech Sydney AI centre](https://www.sydney.edu.au/engineering/our-research/data-science-and-computer-engineering/ubtech-sydney-artificial-intelligence-centre.html), directed by Dacheng Tao.
 - [Queensland AI Hub](https://www.qldaihub.com/)
+- [Applied AI Institute](https://a2i2.deakin.edu.au/themes/deep-learning/)
 
 Smaller research groups:
 
