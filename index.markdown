@@ -36,7 +36,7 @@ Below is a (no doubt incomplete) list of researchers in Australia for whom deep 
 - [Yunchao Wei](https://weiyc.github.io/), Lecturer University of Technology Sydney, computer vision, AAAI, ECCV, CVPR, NeurIPS.
 - [Liang Zheng](https://cecs.anu.edu.au/people/liang-zheng), Lecturer ANU computer vision, ECCV, CVPR, ICCV.
 - [Linchao Zhu](http://ffmpbgrnn.github.io/), Lecturer University of Technology Sydney, NeurIPS, ICCV, CVPR, AAAI, IJCAI.
-- [Xiaojun Chang](https://research.monash.edu/en/persons/xiaojun-chang), Lecturer Monash University, CVPR, AAAI, IJCAI, Neural Computation.
+- [Xiaojun Chang](https://research.monash.edu/en/persons/xiaojun-chang), Senior Lecturer Monash University, CVPR, AAAI, IJCAI, Neural Computation.
 - [Shirui Pan](https://shiruipan.github.io/), Lecturer Monash University, KDD, AAAI, IJCAI, ICDM. 
 - [Xingjun Ma](http://xingjunma.com/), Lecturer Deakin University, ICLR, NeurIPS, CVPR, ICML.
 - [Qiuhong Ke](https://findanexpert.unimelb.edu.au/profile/861653-qiuhong-ke), Lecturer University of Melbourne, CVPR, ICCV, ECCV.
