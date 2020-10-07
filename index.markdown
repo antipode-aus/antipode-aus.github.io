@@ -32,7 +32,7 @@ Below is a (no doubt incomplete) list of researchers in Australia for whom deep 
 - [Qi Wu](https://researchers.adelaide.edu.au/profile/qi.wu01#publications), Senior Lecturer University of Adelaide, visual question answering, CVPR, AAAI, IJCAI
 - [Tongliang Liu](https://sydney.edu.au/engineering/about/our-people/academic-staff/tongliang-liu.html), Lecturer University of Sydney, ICML, NeurIPS, CVPR, ECCV, AAAI, IJCAI.
 - [Chang Xu](https://sydney.edu.au/engineering/about/our-people/academic-staff/c-xu.html), Lecturer University of Sydney, computer vision, ICML, NeurIPS, CVPR, ECCV, KDD, IJCAI, AAAI.
-- [Mingming Gong](https://mingming-gong.github.io/), Lecturer University of Melbourne, NeurIPS, ICML, CVPR, ICCV, ECCV, UAI, AAAI, IJCAI.
+- [Mingming Gong](https://mingming-gong.github.io/), Lecturer University of Melbourne, NeurIPS, ICML, CVPR, ICCV, ECCV, UAI.
 - [Yunchao Wei](https://weiyc.github.io/), Lecturer University of Technology Sydney, computer vision, AAAI, ECCV, CVPR, NeurIPS.
 - [Liang Zheng](https://cecs.anu.edu.au/people/liang-zheng), Lecturer ANU computer vision, ECCV, CVPR, ICCV.
 - [Linchao Zhu](http://ffmpbgrnn.github.io/), Lecturer University of Technology Sydney, NeurIPS, ICCV, CVPR, AAAI, IJCAI.
