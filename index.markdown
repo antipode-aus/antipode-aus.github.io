@@ -25,7 +25,7 @@ Below is a (no doubt incomplete) list of researchers in Australia for whom deep 
 - [Lexing Xie](http://users.cecs.anu.edu.au/~xlx/), Professor ANU, graph data and computer vision, CVPR, AAAI, WACV.
 - [Dinh Phung](https://research.monash.edu/en/persons/dinh-phung), Professor Monash University, AAAI, PMLR, ICLR.
 - [Karin Verspoor](https://cis.unimelb.edu.au/people/karin-verspoor), Professor University of Melbourne, deep learning for NLP, particularly for biomedical text, BMC Bioinformatics, ACL.
-- [Truyen Tran](https://truyentran.github.io/), Associate Professor Deakin University, AAAI, KDD, ICLR, NIPS, CVPR, ICML.
+- [Truyen Tran](https://truyentran.github.io/), Associate Professor Deakin University, AAAI, KDD, ICLR, NeurIPS, CVPR, ICML.
 - [Trevor Cohn](https://people.eng.unimelb.edu.au/tcohn/), Associate Professor University of Melbourne: deep learning for NLP, ICML, ACL, EMNLP.
 - [Richard Nock](http://users.cecs.anu.edu.au/~rnock/), Adjunct Professor ANU/Sydney, NeurIPS, ICCV, ICML, CVPR, AAAI.
 - [Reza Haffari](https://research.monash.edu/en/persons/reza-haffari), Associate Professor Monash, natural language processing, many papers in ACL.
@@ -38,6 +38,10 @@ Below is a (no doubt incomplete) list of researchers in Australia for whom deep 
 - [Linchao Zhu](http://ffmpbgrnn.github.io/), Lecturer University of Technology Sydney, NeurIPS, ICCV, CVPR, AAAI, IJCAI.
 - [Xiaojun Chang](https://research.monash.edu/en/persons/xiaojun-chang), Lecturer Monash University, CVPR, AAAI, IJCAI, Neural Computation.
 - [Shirui Pan](https://shiruipan.github.io/), Lecturer Monash University, KDD, AAAI, IJCAI, ICDM. 
+- [Xingjun Ma](http://xingjunma.com/), Lecturer Deakin University, ICLR, NeurIPS, CVPR, ICML.
+- [Qiuhong Ke](https://findanexpert.unimelb.edu.au/profile/861653-qiuhong-ke), Lecturer University of Melbourne, CVPR, ICCV, ECCV.
+
+
 
 The best venues for publication in deep learning are *conferences*. See below for a list.
 
