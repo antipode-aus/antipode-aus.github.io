@@ -11,11 +11,14 @@ This document attempts to be an up-to-date overview of the deep learning landsca
 
 Below is a (no doubt incomplete) list of researchers in Australia for whom deep learning is **currently their main research area**. This includes e.g. researchers in computer vision whose main tool is deep learning. To make this point even clearer: the list does not include every single person who has published a paper using deep learning. That list would be much larger. Included is a caricature of the interests of each researcher, in the form of a sampling of the conferences/journals that they have published in.
 
+- [Anton Van Den Hengel](https://www.adelaide.edu.au/directory/anton.vandenhengel), Professor University of Adelaide, ECCV, ICCV, ICML, CVPR.
 - [Tim Baldwin](https://people.eng.unimelb.edu.au/tbaldwin/publications.html), Professor University of Melbourne: deep learning for NLP, ACL.
-- [Dacheng Tao](https://sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html), Professor University of Sydney, computer vision, AAAI, CVPR, ECCV.
+- [Wray Buntine](https://research.monash.edu/en/persons/wray-buntine), Professor Monash University, probabilistic deep learning, NeurIPS, ICML, UAI, MLJ, KDD.
 - [Ian Reid](https://cs.adelaide.edu.au/~ianr/), Professor University of Adelaide, computer vision and robotics, ICRA, WACV, ICCV.
-- [Chunhua Shen](https://researchers.adelaide.edu.au/profile/chunhua.shen), Professor University of Adelaide, computer vision, AAAI, ICML, CVPR.
+- [Dacheng Tao](https://sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html), Professor University of Sydney, computer vision, AAAI, CVPR, ECCV.
+- [Chunhua Shen](https://researchers.adelaide.edu.au/profile/chunhua.shen), Professor University of Adelaide, computer vision, ECCV, ICCV, ICML, CVPR.
 - [Stephen Gould](http://users.cecs.anu.edu.au/~sgould/), Associate Professor ANU, computer vision, WACV, ICCV, CVPR, NeurIPS.
+- [Jianfei Cai](https://research.monash.edu/en/persons/jianfei-cai), Professor Monash University, vision and language, CVPR, ECCV, TPAMI, IJCV.
 - [Yi Yang](http://reler.net/), Professor University of Technology Sydney, IJCAI, CVPR, AAAI, ICLR, ECCV.
 - [James Bailey](https://people.eng.unimelb.edu.au/baileyj/papers/papers.html), CS Professor University of Melbourne, ICCV, ICML, IJCAI, CVPR, AAAI.
 - [Qinfeng Shi](https://cs.adelaide.edu.au/~javen/), Professor University of Adelaide, ICCV, IJCAI, CVPR, ECCV, AAAI.
@@ -24,12 +27,12 @@ Below is a (no doubt incomplete) list of researchers in Australia for whom deep 
 - [Karin Verspoor](https://cis.unimelb.edu.au/people/karin-verspoor), Professor University of Melbourne, deep learning for NLP, particularly for biomedical text, BMC Bioinformatics, ACL.
 - [Truyen Tran](https://truyentran.github.io/), Associate Professor Deakin University, AAAI, KDD, ICLR, NIPS, CVPR, ICML.
 - [Trevor Cohn](https://people.eng.unimelb.edu.au/tcohn/), Associate Professor University of Melbourne: deep learning for NLP, ICML, ACL, EMNLP.
+- [Richard Nock](http://users.cecs.anu.edu.au/~rnock/), Adjunct Professor ANU/Sydney, NeurIPS, ICCV, ICML, CVPR, AAAI.
 - [Reza Haffari](https://research.monash.edu/en/persons/reza-haffari), Associate Professor Monash, natural language processing, many papers in ACL.
 - [Qi Wu](https://researchers.adelaide.edu.au/profile/qi.wu01#publications), Senior Lecturer University of Adelaide, visual question answering, CVPR, AAAI, IJCAI
-- [Mingming Gong](https://mingming-gong.github.io/), Lecturer University of Melbourne, NeurIPS, ICML, CVPR, ICCV, AAAI, IJCAI.
 - [Tongliang Liu](https://sydney.edu.au/engineering/about/our-people/academic-staff/tongliang-liu.html), Lecturer University of Sydney, ICML, NeurIPS, CVPR, ECCV, AAAI, IJCAI.
 - [Chang Xu](https://sydney.edu.au/engineering/about/our-people/academic-staff/c-xu.html), Lecturer University of Sydney, computer vision, ICML, NeurIPS, CVPR, ECCV, KDD, IJCAI, AAAI.
-- [Richard Nock](http://users.cecs.anu.edu.au/~rnock/), Adjunct Professor ANU/Sydney, NeurIPS, ICCV, ICML, CVPR, AAAI.
+- [Mingming Gong](https://mingming-gong.github.io/), Lecturer University of Melbourne, NeurIPS, ICML, CVPR, ICCV, ECCV, UAI, AAAI, IJCAI.
 - [Yunchao Wei](https://weiyc.github.io/), Lecturer University of Technology Sydney, computer vision, AAAI, ECCV, CVPR, NeurIPS.
 - [Liang Zheng](https://cecs.anu.edu.au/people/liang-zheng), Lecturer ANU computer vision, ECCV, CVPR, ICCV.
 - [Linchao Zhu](http://ffmpbgrnn.github.io/), Lecturer University of Technology Sydney, NeurIPS, ICCV, CVPR, AAAI, IJCAI.
