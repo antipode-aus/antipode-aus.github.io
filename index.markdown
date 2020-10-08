@@ -19,6 +19,7 @@ Below is a (no doubt incomplete) list of researchers in Australia for whom deep 
 - [Chunhua Shen](https://researchers.adelaide.edu.au/profile/chunhua.shen), Professor University of Adelaide, computer vision, ECCV, ICCV, ICML, CVPR.
 - [Stephen Gould](http://users.cecs.anu.edu.au/~sgould/), Associate Professor ANU, computer vision, WACV, ICCV, CVPR, NeurIPS.
 - [Jianfei Cai](https://research.monash.edu/en/persons/jianfei-cai), Professor Monash University, vision and language, CVPR, ECCV, TPAMI, IJCV.
+- [Ivor Tsang](https://www.uts.edu.au/staff/ivor.tsang), Professor University of Technology Sydney, NeurIPS, ICML, JMLR, TPAMI.
 - [Yi Yang](http://reler.net/), Professor University of Technology Sydney, IJCAI, CVPR, AAAI, ICLR, ECCV.
 - [James Bailey](https://people.eng.unimelb.edu.au/baileyj/papers/papers.html), CS Professor University of Melbourne, ICCV, ICML, IJCAI, CVPR, AAAI.
 - [Qinfeng Shi](https://cs.adelaide.edu.au/~javen/), Professor University of Adelaide, ICCV, IJCAI, CVPR, ECCV, AAAI.
