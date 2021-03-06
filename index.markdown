@@ -88,13 +88,12 @@ Institutes focused on policy and ethics (and on AI broadly, not deep learning):
 
 ## Startups
 
+- [Replica Studios](https://replicastudios.com/) (Brisbane) AI voice actors for games and films ([press](https://www.wired.co.uk/article/simpsons-deepfake-voice-actors-ai)).
+- [Silverpond](https://silverpond.com.au/) (Melbourne) [HighLighter](https://silverpond.com.au/highlighter/).
+- 
 Training in deep learning:
 
 - [Brane shop](https://braneshop.com.au/) specialists in strategic & technical AI education.
-
-Consulting and products:
-
-- [Silverpond](https://silverpond.com.au/) supports the deep learning community, [HighLighter](https://silverpond.com.au/highlighter/).
 
 ## Reports
 
