@@ -41,8 +41,8 @@ Below is a (no doubt incomplete) list of researchers in Australia for whom deep 
 - [Shirui Pan](https://shiruipan.github.io/), Lecturer Monash University, KDD, AAAI, IJCAI, ICDM. 
 - [Xingjun Ma](http://xingjunma.com/), Lecturer Deakin University, ICLR, NeurIPS, CVPR, ICML.
 - [Qiuhong Ke](https://findanexpert.unimelb.edu.au/profile/861653-qiuhong-ke), Lecturer University of Melbourne, CVPR, ICCV, ECCV.
-- [Peter Vamplew](https://federation.edu.au/schools/school-of-engineering-information-technology-and-physical-sciences/staff-profiles/information-technology/peter-vamplew/vamplew,-peter-aprof-research), Associate Professor Federation University.
-- [Richard Dazeley](https://www.deakin.edu.au/about-deakin/people/richard-dazeley), Associate Professor Deakin University.
+- [Peter Vamplew](https://federation.edu.au/schools/school-of-engineering-information-technology-and-physical-sciences/staff-profiles/information-technology/peter-vamplew/vamplew,-peter-aprof-research), Associate Professor Federation University, AAMAS2020, AJCAI, 
+- [Richard Dazeley](https://www.deakin.edu.au/about-deakin/people/richard-dazeley), Associate Professor Deakin University, AJCAI.
 - [Thanh Thi Nguyen](https://www.deakin.edu.au/about-deakin/people/thanh-thi-nguyen), Senior Lecturer Deakin University.
 
 The best venues for publication in deep learning are *conferences*. See below for a list.
